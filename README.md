@@ -14,7 +14,7 @@ https://lvbudget-tracker.herokuapp.com/
 * To run server, run `npm start`. 
 
 ## Usage 
-This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection.
+This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection. To test without internet in Google Chrome, the user can open the DevTools, go to the `Network` tab and throttle the application to be offline.
 
 ## Built With
 * HTML
