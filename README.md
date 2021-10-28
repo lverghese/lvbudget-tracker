@@ -16,6 +16,12 @@ https://lvbudget-tracker.herokuapp.com/
 ## Usage 
 This application will allow users to create new transactions whether it's a deposit or withdraw, with or without internet connection.
 
+## Built With
+* HTML
+* Css
+* Javascript
+* React/JSX
+* Express, Node, MongoDB
 
 ## Tests
 No further tests needed for this application.
